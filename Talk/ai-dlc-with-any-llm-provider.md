@@ -95,3 +95,10 @@ The steering files can be adapted to other AI coding tools that support project-
 - **If moving to another tool**: copy `.kiro/steering/aws-aidlc-rules/core-workflow.md` and the relevant `.kiro/aws-aidlc-rule-details/*` files into that tool's rule directory, then reference them in your system prompt.
 
 The blueprint travels with you.
+
+---
+
+See also:
+- [`starting-a-new-project.md`](./starting-a-new-project.md) — the quickstart recipe
+- [`which-phases-matter-in-kiro.md`](./which-phases-matter-in-kiro.md) — honest phase-by-phase evaluation
+- [`agentcore-runtime-vs-kiro-cli.md`](./agentcore-runtime-vs-kiro-cli.md) — why you don't need AgentCore for solo work

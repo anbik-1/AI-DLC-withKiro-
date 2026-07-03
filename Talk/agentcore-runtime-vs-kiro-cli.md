@@ -128,3 +128,10 @@ Kiro CLI lets you pick which model runs (see `Talk/ai-dlc-with-any-llm-provider.
 For a solo developer or small team doing real project work: **you have everything you need already**. The blueprint + Kiro CLI + a strong LLM is a complete AI-DLC setup. AgentCore is what you'd add later if you wanted to productize AI-DLC into a service other people can use.
 
 Don't over-engineer. Start with Kiro. Add AgentCore only when the pain of "everyone in my company keeps asking me to run AI-DLC for them" becomes real.
+
+---
+
+See also:
+- [`starting-a-new-project.md`](./starting-a-new-project.md) — the quickstart recipe
+- [`which-phases-matter-in-kiro.md`](./which-phases-matter-in-kiro.md) — honest phase-by-phase evaluation
+- [`ai-dlc-with-any-llm-provider.md`](./ai-dlc-with-any-llm-provider.md) — which LLMs work with this blueprint
