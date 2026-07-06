@@ -1,4 +1,4 @@
-# AI-DLC-withKiro-
+# AI-DLC-withKiro
 
 Blueprint for running the **AI-Driven Development Lifecycle (AI-DLC)** methodology inside [Kiro CLI](https://github.com/aws/kiro), the AI assistant that guides a project from idea to deployed code through structured phases.
 
